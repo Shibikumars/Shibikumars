@@ -67,8 +67,6 @@ An Arduino-based robot designed to automate the seed sowing process, improving a
 ### 🦾 Low-Cost Prosthetic Hand
 A cost-effective prosthetic hand controlled by EMG signals from the forearm, designed to provide basic hand functionality at an accessible price point.
 
-### 🚨 AI-Assisted Disaster Management Application
-An AI-powered platform for disaster response, integrating real-time data for improved emergency management and coordination.
 
 ### 🌱 EcoTrack – Carbon Footprint Tracker
 A web application helping users track and reduce their carbon footprint with intuitive data analysis and eco-friendly recommendations.
